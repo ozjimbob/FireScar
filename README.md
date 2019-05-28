@@ -10,11 +10,14 @@ Files:
 * cat_face_mortality_pfire.r - Model functions for running a fixed fire regime
 * cat_face_mortality_pfire_split.r - Model functions for running a split fire regime with a change point at a given year.
 * summary_functions.r
+* stars.r - contains STARS function, see file for details
 
 * experiment_0.r - Run latin hypercube sensitivity test of mortality functions
 * experiment_1.r - Run four fixed regime simulations
 * experiment_2.r - Fun a series of split regimes (wide and narrow) with varying split year
 * calc_summary_stats.r - Calculates summary MFI statistics for fixed regime simulation runs
+* calc_moving_stats.r - Generates timeseries file for regime shift models
+* changepoint.r - Detects changepoint using STARS function, writes changepoint.csv file
 
 * plot_fig1.r - plots paper figure 1 - MFI estimation of fixed regimes - targeted
 * plot_fig2.r - plots paper figure 1 - MFI estimation of fixed regimes - random
