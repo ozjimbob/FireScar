@@ -16,3 +16,4 @@ Files:
 * experiment_2.r - Fun a series of split regimes (wide and narrow) with varying split year
 * calc_summary_stats.r - Calculates summary MFI statistics for fixed regime simulation runs
 
+* plot_fig1.r - plots paper figure 1 - MFI estimation of fixed regimes
