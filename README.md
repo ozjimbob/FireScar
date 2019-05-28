@@ -22,3 +22,4 @@ Files:
 * plot_fig1.r - plots paper figure 1 - MFI estimation of fixed regimes - targeted
 * plot_fig2.r - plots paper figure 1 - MFI estimation of fixed regimes - random
 * plot_fig3.r - plots paper figure 3 - colour box plot comparing MFI range estimation
+* plot_fig4_5.r - plots paper figures 4 and 5 - histograms of change point detection error
