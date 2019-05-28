@@ -17,3 +17,4 @@ Files:
 * calc_summary_stats.r - Calculates summary MFI statistics for fixed regime simulation runs
 
 * plot_fig1.r - plots paper figure 1 - MFI estimation of fixed regimes
+* plot_fig3.r - plots paper figure 3 - colour box plot comparing MFI range estimation
